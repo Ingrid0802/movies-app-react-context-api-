@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background: #161515;
+}
+
+/* #light {
+  background: white;
+  color: black;
+}
+
+#dark {
+  background: #161515;
+  color: white;
+} */
